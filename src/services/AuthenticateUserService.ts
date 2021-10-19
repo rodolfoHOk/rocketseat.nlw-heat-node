@@ -2,16 +2,6 @@ import axios from 'axios';
 import prismaClient from '../prisma';
 import { sign } from 'jsonwebtoken';
 
-/**
- * Receber code(string)
- * Recuperar o access_token no github
- * Recuperar infos do user no github
- * Verificar se o usuário existe no DB
- * --- Sim = Gera um token
- * --- Não = Cria o user no DB, gera um token
- * Retornar o token com as infos do user
- */
-
 interface IAccessTokenResponse {
   access_token: string;
 }
