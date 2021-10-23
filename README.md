@@ -60,3 +60,21 @@
 - habilitado servidor socket IO (método on()) quando conectado
 - quando uma nova mensagem é criada o servidor socket IO emite uma informação de
   "nova_mensagem" que serão recebidas por todos que tiverem escutando "nova_mensagem"
+
+## 🚀 Links para todos os projetos criados no evento: 🚀
+
+### 🔗 Link para o projeto do Back-End Node no Github 🗄️
+
+https://github.com/rodolfoHOk/nlw-heat-node
+
+### 🔗 Link para o projeto do Front-End Web no Github 🖥️
+
+https://github.com/rodolfoHOk/nlw-heat-web
+
+### 🔗 Link para o projeto do Front-End Mobile no Github 📱
+
+https://github.com/rodolfoHOk/nlw-heat-mobile
+
+### 🔗 Link para o projeto do Front-End Elixir no Github 🏷️
+
+https://github.com/rodolfoHOk/nlw-heat-elixir
